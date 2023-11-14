@@ -4,6 +4,7 @@ In data science, it's crucial to pull out the key bits of information from a bun
 
 ## The result 
 ## Tesla
+
 *Observations:*
 
 Tesla's share price has increased significantly over the past decade, from around $30 per share in 2010 to over $300 per share in 2023.
@@ -13,6 +14,9 @@ Tesla's returns have been even more impressive, with the stock generating an ave
 ![Screenshot_7](https://github.com/Sbinsuwaylih/Analyzing-stock-Revenue-Data/assets/117676731/d1c895a8-5a1f-4dd6-b0ad-aba32e515fec)
 
 ## Game Shop
-The share price has been on a downward trend since 2004, with some brief periods of recovery. The revenue has also been declining, but at a slower rate than the share price.
+
+*Observations:*
+
+The share price hasbeen on a downward trend since 2004, with some brief periods of recovery. The revenue has also been declining, but at a slower rate than the share price.
 
 ![Screenshot_9](https://github.com/Sbinsuwaylih/Analyzing-stock-Revenue-Data/assets/117676731/a19fa51e-16c0-4e8a-aa03-f4488d487b48)
