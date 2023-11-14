@@ -3,3 +3,5 @@ In data science, it's crucial to pull out the key bits of information from a bun
 
 
 ## The result 
+
+![Screenshot_7](https://github.com/Sbinsuwaylih/Analyzing-stock-Revenue-Data/assets/117676731/d1c895a8-5a1f-4dd6-b0ad-aba32e515fec)
