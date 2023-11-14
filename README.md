@@ -4,7 +4,8 @@ In data science, it's crucial to pull out the key bits of information from a bun
 
 ## The result 
 ## Tesla
-Observations:
+*Observations:*
+
 Tesla's share price has increased significantly over the past decade, from around $30 per share in 2010 to over $300 per share in 2023.
 Tesla's revenue has also increased rapidly, from around $100 million in 2010 to over $10 billion in 2023.
 Tesla's returns have been even more impressive, with the stock generating an average annual return of over 50% over the past decade.
